@@ -1,0 +1,41 @@
+.nav {
+    width: 100%;
+    float: left;
+    margin: 0 0 3em 0;
+    padding: 0;
+    list-style: none;
+    background-color:grey ;
+}
+
+.homeBtn {
+    // float: left;
+    background-color: grey;
+    color: white;
+}
+
+.chirpBtn {
+    margin-left: 100px;
+    color: white;
+    background-color: grey;
+}
+
+.text {
+    color: rgb(58, 58, 58)
+}
+
+.delete-button {
+    // color: red;
+    margin-left: 200px;
+    margin-bottom: 5px;
+    width: 75px;
+}
+
+.edit-button {
+    color: grey;
+    margin-left: 10px;
+}
+
+.chirp-container {
+    width: 500px
+}
+
